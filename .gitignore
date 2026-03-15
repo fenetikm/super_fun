@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+super_fun
+
+# Test binary
+*.test
+
+# Coverage output
+*.out
+
+# Go workspace file
+go.work
+go.work.sum
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
