@@ -24,3 +24,4 @@ go.work.sum
 
 # Claude
 .claude/settings.local.json
+.claude/worktrees
